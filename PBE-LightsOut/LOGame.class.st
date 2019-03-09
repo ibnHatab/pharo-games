@@ -1,6 +1,11 @@
+"
+Runner
+"
 Class {
 	#name : #LOGame,
 	#superclass : #BorderedMorph,
+	#traits : 'TAutor',
+	#classTraits : 'TAutor classTrait',
 	#instVars : [
 		'cells'
 	],

@@ -1,3 +1,6 @@
+"
+Game
+"
 Class {
 	#name : #LOCEll,
 	#superclass : #SimpleSwitchMorph,
